@@ -1,0 +1,137 @@
+canonical_identifier: bkk:krp/KR3ek048/v1
+canonical_location: https://kanripo.org/bkk/KR3ek048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 黴癘新書
+  identifiers:
+    krp: KR3ek048
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek048.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek048_000.yaml, hash: 'sha256:459ceb2ca6450fb94b8b6dff14e16d040c78e5cd219d5e7b18e6fac7b503317d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek048_000.markers.yaml, hash: 'sha256:63fa843273d4e958c2cdbbb71423e7a1baabb3950cd5a3f08fd7a3249b55ab7b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 479
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d3.h1s1
+    span:
+    - front
+    - 479
+    - 976
+  label: 黴癘新書序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d4.h1s1
+    span:
+    - front
+    - 976
+    - 1502
+  label: 黴癘新書序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 7934
+  label: 總論二十四舉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d5d54
+    span:
+    - body
+    - 4830
+    - 7934
+  label: 醫案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d6.h1s1
+    span:
+    - body
+    - 7934
+    - 18636
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d6d2
+    span:
+    - body
+    - 7936
+    - 8546
+  label: 記浪華一處女事
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d6d3
+    span:
+    - body
+    - 8546
+    - 9213
+  label: 答友人書
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d6d4
+    span:
+    - body
+    - 9213
+    - 10366
+  label: 黴瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d6d5
+    span:
+    - body
+    - 10366
+    - 18636
+  label: 治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek048_jc_000-d7.h1s1
+    span:
+    - body
+    - 18636
+    - 18777
+  label: 黴癘新書跋
+  type: section
+  level: 1
+hash: sha256:795470ff6b09627c1d43fdda5048993d233c1106ab1aa0e83f71ddced0699afd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
