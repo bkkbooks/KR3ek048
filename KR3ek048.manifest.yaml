@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek048_000.yaml, hash: 'sha256:459ceb2ca6450fb94b8b6dff14e16d040c78e5cd219d5e7b18e6fac7b503317d'}
+  - {seq: 0, filename: KR3ek048_000.yaml, hash: 'sha256:12d9c2f31139a730a734fe2703c67ac51ec04ae3d1835f0f380bfd6681e27541'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek048_000.markers.yaml, hash: 'sha256:63fa843273d4e958c2cdbbb71423e7a1baabb3950cd5a3f08fd7a3249b55ab7b'}
+  - {seq: 0, role: markers, filename: assets/KR3ek048_000.markers.yaml, hash: 'sha256:1766284a7ea6ac5ca5691e63e81adb04f40d239d3c7834ed6eb9cb3a7a776ca0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -131,7 +131,4 @@ table_of_contents:
   label: 黴癘新書跋
   type: section
   level: 1
-hash: sha256:795470ff6b09627c1d43fdda5048993d233c1106ab1aa0e83f71ddced0699afd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cd58168f9669a671993e02a0e6dc92c830fe0c49b4a1bb93a7fde1d09da30472
