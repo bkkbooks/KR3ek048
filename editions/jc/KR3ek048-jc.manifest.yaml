@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek048_000-jc.yaml, hash: 'sha256:12d9c2f31139a730a734fe2703c67ac51ec04ae3d1835f0f380bfd6681e27541'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek048_000-jc.markers.yaml, hash: 'sha256:dc2da15d44afe9318e5cb682d2aaa0929c6216f4c5f3edf5c306504eb3d7c963'}
+  - {seq: 0, role: markers, filename: assets/KR3ek048_000-jc.markers.yaml, hash: 'sha256:29264d7cddcdaba7ae3e4340bc480d15b4f221db33af2ecd40489d8d772f4323'}
 table_of_contents:
 - ref:
     seq: 0
@@ -131,4 +131,4 @@ table_of_contents:
   label: 黴癘新書跋
   type: section
   level: 1
-hash: sha256:989e597e2bea32763e4517e1f1265e32ad617c117bcf6c9479442b8dfb87047f
+hash: sha256:46acbf9d699b87981ad586ae65916d6299e232e7d236bed8ef04c2abad5ca76f
